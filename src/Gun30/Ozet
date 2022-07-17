@@ -1,0 +1,18 @@
+Access Modifiers(Erisim belirticleri)
+Public,private,protected,default(birsey yazilmazsa)
+
+Erisim alanlari
+1-class'in ici
+2-paketin ici
+3-projenin ici
+
+public: projenin her tarafindan yani diger tum paketlerden erisilebilir
+        Class,method,field,constructor
+
+default: (friendly) bir belirtec yazilmazsa; sadece bulundugu paketin icindekiler erisebilir
+        Class,method,field,constructor
+
+private: sadece class'in icinden erisilebilir.Baska hic bir yerden erisilemez
+        field,method
+protected: default gibi calisir, tek farki; bi sekilde diger paketlerden erisilebilir.
+        bunu "KALITIM" konusunda gorecegiz

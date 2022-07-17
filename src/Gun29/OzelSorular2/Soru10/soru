@@ -1,0 +1,5 @@
+String 2D array oluşturunuz.
+{{"$12" , "$22" , "5$"},{"€9" , "€40" , "$1" , "$2"}, {"€12"}}
+String de $ varsa 3.2 ile çarpın
+String de € varsa 4.2 ile çarpın
+double return ediniz.

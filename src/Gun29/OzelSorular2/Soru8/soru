@@ -1,0 +1,5 @@
+Verilen String arrayde;
+String arrayi ters çeviriniz.
+ters arrayi yazdırınız.
+NOT:
+Arrays.toString(your_array_name); <--- kullanınız.

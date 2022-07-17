@@ -1,0 +1,6 @@
+String bir array verildiğinde;
+Eger String Orange içeriyorsa bütün Orange leri Apple çeviriniz.
+Örnek:
+Array : Peach , Berry , Orange , WaterMelon , Orange
+Result böyle olmalı --> : Peach , Berry , Apple , WaterMelon , Apple
+Arrayi print ediniz.

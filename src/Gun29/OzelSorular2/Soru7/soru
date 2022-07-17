@@ -1,0 +1,8 @@
+Verilen int arrayde;
+duplicated(tekrarlanan) öğeleri array den kaldırınız.
+non-duplicated(tekrarlanmayan) öğeleri print ediniz.
+Örnek:
+Array is 1,2,2,2,3,3,3,4,4,4,5,5,5
+result [1,2,3,4,5] olmalı
+NOT: resultu print ederken for loop kullanmayınız.
+System.out.println(Arrays.toString(your_array_name)); kullanınız.
